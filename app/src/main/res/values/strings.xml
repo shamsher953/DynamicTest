@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDynamicModule</string>
+    <string name="title_dynamicfeature">GameLibrary</string>
+</resources>
