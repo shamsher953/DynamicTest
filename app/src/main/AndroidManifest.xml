@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.bng.testdynamicmodule"
-    split="dynamicfeature">
+    package="com.bng.testdynamicmodule">
 
 
-    <dist:module
-        dist:onDemand="true"
-        dist:title="@string/title_test">
-        <dist:fusing include="true" />
-    </dist:module>
 
     <application
         android:allowBackup="true"
